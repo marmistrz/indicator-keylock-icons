@@ -1,0 +1,23 @@
+indicator-keylock-icons (2~0ppa1~natty) natty; urgency=low
+
+  * Uploaded for 11.04.
+
+ -- T. Scott Barnes <tsbarnes@tsbarnes.com>  Tue, 12 Apr 2011 02:10:03 -0500
+
+indicator-keylock-icons (2~0ppa0) lucid; urgency=low
+
+  * Changed ubuntu-mono icons
+
+ -- T. Scott Barnes <tsbarnes@tsbarnes.com>  Sun, 19 Sep 2010 03:55:41 -0400
+
+indicator-keylock-icons (1.1.0~0ppa0) lucid; urgency=low
+
+  * Added elementary icons
+
+ -- T. Scott Barnes <tsbarnes@tsbarnes.com>  Thu, 15 Jul 2010 19:21:52 -0400
+
+indicator-keylock-icons (1.0.0~0ppa0) lucid; urgency=low
+
+  * Initial release
+
+ -- T. Scott Barnes <tsbarnes@tsbarnes.com>  Thu, 15 Jul 2010 09:51:20 -0400

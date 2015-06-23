@@ -1,0 +1,17 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+include /usr/share/cdbs/1/rules/debhelper.mk
+include /usr/share/cdbs/1/class/makefile.mk
+
+DEB_MAKE_EXTRA_ARGS = DESTDIR=$(CURDIR)/debian/tmp/usr
+DEB_MAKE_INSTALL_TARGET = install
+
+binary-install/indicator-keylock-ubuntu-mono::
+	dh_icons -pindicator-keylock-ubuntu-mono
+
+binary-install/indicator-keylock-humanity::
+	dh_icons -pindicator-keylock-humanity
+
+binary-install/indicator-keylock-elementary::
+	dh_icons -pindicator-keylock-elementary

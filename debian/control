@@ -1,0 +1,24 @@
+Source: indicator-keylock-icons
+Section: x11
+Priority: extra
+Maintainer: T. Scott Barnes <tsbarnes@tsbarnes.com>
+Build-Depends: debhelper (>= 7), cdbs
+Standards-Version: 3.8.4
+
+Package: indicator-keylock-ubuntu-mono
+Architecture: all
+Depends: indicator-keylock, ubuntu-mono
+Description: Icons for indicator-keylock
+ Extra ubuntu-mono icons for indicator-keylock
+
+Package: indicator-keylock-humanity
+Architecture: all
+Depends: indicator-keylock, humanity-icon-theme
+Description: Icons for indicator-keylock
+ Extra Humanity icons for indicator-keylock
+
+Package: indicator-keylock-elementary
+Architecture: all
+Depends: indicator-keylock, elementary-icon-theme
+Description: Icons for indicator-keylock
+ Extra elementary-monochrome icons for indicator-keylock
