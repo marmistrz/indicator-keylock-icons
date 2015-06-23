@@ -22,3 +22,10 @@ Architecture: all
 Depends: indicator-keylock, elementary-icon-theme
 Description: Icons for indicator-keylock
  Extra elementary-monochrome icons for indicator-keylock
+
+Package: indicator-keylock-mint-x
+Architecture: all
+Depends: indicator-keylock, mint-x-icons
+Description: Icons for indicator-keylock
+ Extra Mint-X icons for indicator-keylock
+

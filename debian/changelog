@@ -1,3 +1,9 @@
+indicator-keylock-icons (3.0) unstable; urgency=medium
+
+  * Added icons for Mint-X
+
+ -- Marcin Mielniczuk <marmistrz@inboxalias.com>  Tue, 23 Jun 2015 16:37:16 +0200
+
 indicator-keylock-icons (2~0ppa1~natty) natty; urgency=low
 
   * Uploaded for 11.04.
